@@ -1,0 +1,15 @@
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\bin\Debug\net6.0\z21.exe
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\bin\Debug\net6.0\z21.deps.json
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\bin\Debug\net6.0\z21.runtimeconfig.json
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\bin\Debug\net6.0\z21.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\bin\Debug\net6.0\z21.pdb
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.csproj.AssemblyReference.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.AssemblyInfo.cs
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\refint\z21.dll
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.pdb
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\z21.genruntimeconfig.cache
+C:\Users\emily\OneDrive\Рабочий стол\учеба\C#\seminar3\Homework\z21\obj\Debug\net6.0\ref\z21.dll
